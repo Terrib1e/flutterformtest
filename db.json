@@ -1,10 +1,10 @@
 {
-   "posts" [
-   {
-   "id":1,
-   "title":"hello",
-   "userId":1,
-   "Album":"Pen15"
-}
+   "posts":[
+      {
+         "id":1,
+         "title":"hello",
+            "userId":1,
+   "album":"Pen15"
+      }
    ]
 }
