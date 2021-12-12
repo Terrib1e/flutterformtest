@@ -1,11 +1,8 @@
 {
-   "title":"album",
    "posts":[
       {
          "id":1,
          "title":"hello",
-            "userId":1,
-   "album":"Pen15"
       }
    ]
 }
