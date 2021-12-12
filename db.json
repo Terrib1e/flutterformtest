@@ -1,7 +1,6 @@
-[
-    {
-      "userId":1
-      "id": 1,
-      "title": "hello"
-    }
-]
+{
+   "id":1,
+   "title":"hello",
+   "userId":1,
+   "name":"typicode"
+}
